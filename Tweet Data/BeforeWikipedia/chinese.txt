@@ -1,0 +1,25 @@
+"x"
+"1" "【小地震速報EU_PH2】
+2014/5/16 6:10:56 JST,
+震源地 中華民国（台湾） 高雄市の南420km,
+M4.5, TNT 84.8トン,
+深さ 約10km,
+http://t.co/Ji6HkOWGxj"
+"2" "【小地震速報EU_PH2】
+Time 2014/5/15 21:10:56 UTC,
+Region:  BABUYAN ISL REGION, PHILIPPINES,
+M 4.5,
+Depth 10km,
+http://t.co/sBsuf2DccU"
+"3" "【小地震速報EU_PH2】
+2014/5/16 6:10:56 JST,
+震源地 中華民国（台湾） 高雄市の南420km,
+M4.5, TNT 84.8トン,
+深さ 約10km,
+http://t.co/Ji6HkOWGxj"
+"4" "【小地震速報EU_PH2】
+Time 2014/5/15 21:10:56 UTC,
+Region:  BABUYAN ISL REGION, PHILIPPINES,
+M 4.5,
+Depth 10km,
+http://t.co/sBsuf2DccU"
